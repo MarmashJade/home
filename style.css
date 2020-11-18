@@ -1,0 +1,84 @@
+.buttons a{
+	padding:8px;
+	text-decoration:none;
+	color:LightCoral;
+	font-size:24px;
+}
+
+h1, h3, .buttons p, .intro{
+	margin: 4% 2% 3% 4%;
+	text-align: center
+}
+.buttons a:hover{
+	text-decoration:underline;
+	background-color:#F09090;
+	color:white;
+}
+
+.buttons a:active{
+	background-color:LightCoral;
+}
+.gallery img{
+	width:40%;
+	height:40%;
+	transition:1s;
+}
+
+#poem{
+	width:100%;
+}
+
+a{
+	margin:200px 6px 3px 6px;
+}
+
+.validation img{
+	width:5%;
+	margin-top:10px;
+}
+
+.content p{
+	text-indent:3%;
+	margin-right:10%;
+	text-align:left;
+	padding-right:35%;
+}
+
+.gallery img:hover{
+	width:50%;
+}
+
+.gallery{
+	background-color:#1F3F3F;
+	color:white;
+}
+
+.buttons{
+	background-color:#1F3F3F;
+}
+
+.content .vertical, .content .wrap{
+	width:40%;
+	float:right;
+}
+
+.content img{
+	width:50%;
+	padding-bottom:5%;
+}
+
+h2, .content p{
+	margin-left:2%;
+}
+
+td{
+	padding:0% 5% 5% 5%;
+}
+
+table{
+margin-left:10%;
+}
+
+.home{
+	background-image:url("images/background.jpg");
+}
